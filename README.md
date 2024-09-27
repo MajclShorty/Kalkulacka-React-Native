@@ -1,1 +1,1 @@
-# Kalkulacka-React-Native
+# Zde naleznete hlavní soubory aplikace Kalkulačka
